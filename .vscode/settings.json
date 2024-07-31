@@ -1,0 +1,16 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/home/averse/.cache/tinygo/goroot-dffb88fc75bef871d19cfc188e8cba9eb49a636275d00b3a294498537a3f8b72",
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.none"
+    },
+    "go.goroot": "/home/averse/.cache/tinygo/goroot-dffb88fc75bef871d19cfc188e8cba9eb49a636275d00b3a294498537a3f8b72",
+    "go.lintFlags": [
+        "--disable=buildConstraints"
+    ],
+    "gopls": {
+        "ui.diagnostic.staticcheck": true,
+        "verboseOutput": true
+    }
+}
