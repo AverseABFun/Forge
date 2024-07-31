@@ -1,0 +1,5 @@
+{
+    "inherits": ["cortex-m33"],
+    "build-tags": ["forge", "stm32h563", "stm32h5", "stm32"],
+    "linkerscript": "targets/stm32h563.ld"
+}
