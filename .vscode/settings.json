@@ -12,5 +12,6 @@
     "gopls": {
         "ui.diagnostic.staticcheck": true,
         "verboseOutput": true
-    }
+    },
+    "liveServer.settings.port": 5501
 }
